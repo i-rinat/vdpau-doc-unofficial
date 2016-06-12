@@ -1,0 +1,13 @@
+To generate PDF version:
+ * change GENERATE_LATEX in /doc/Doxyfile to YES;
+ * build libvdpau by running `make` in /, it will generate
+   /doc/latex/refman.tex;
+ * call `make pdf` in /doc/latex to make PDF file.
+
+To create additional tab with link to pdf version:
+ * run `doxygen -l` in /doc to generate default layout file;
+ * edit DoxygenLayout.xml, add
+   `<tab type="user" visible="yes" url="vdpau-doc-1.1.1.pdf" title="PDF version" />`
+   to <navindex>;
+ * add line "LAYOUT_FILE = DoxygenLayout.xml" to Doxyfile
+ * run `make` in /.
