@@ -1,0 +1,3 @@
+\form#0:\[ \left( \begin{array}{c} R \\ G \\ B \end{array} \right) = \left( \begin{array}{cccc} m_{0,0} & m_{0,1} & m_{0,2} & m_{0,3} \\ m_{1,0} & m_{1,1} & m_{1,2} & m_{1,3} \\ m_{2,0} & m_{2,1} & m_{2,2} & m_{2,3} \end{array} \right) * \left( \begin{array}{c} Y \\ Cb \\ Cr \\ 1.0 \end{array} \right) \]
+\form#1:\[ dst.a = equation(blendFactorDstAlpha*dst.a, blendFactorSrcAlpha*src.a); \]
+\form#2:\[ dst.rgb = equation(blendFactorDstColor*dst.rgb, blendFactorSrcColor*src.rgb); \]

@@ -1,0 +1,17 @@
+<map id="Core API" name="Core API">
+<area shape="rect" id="node1" href="$group__base__types.html" title="Basic Types" alt="" coords="179,5,274,32"/>
+<area shape="rect" id="node2" href="$group___vdp_output_surface.html" title="VdpOutputSurface; Output\l Surfaceobject" alt="" coords="139,57,315,98"/>
+<area shape="rect" id="node4" href="$group___vdp_c_s_c_matrix.html" title="VdpCSCMatrix; CSC Matrix\l Manipulation" alt="" coords="133,122,320,163"/>
+<area shape="rect" id="node5" href="$group___vdp_video_mixer.html" title="VdpVideoMixer; Video\l Post&#45;processing &#160;&#160;&#160;\l &#160;&#160;&#160;&#160;&#160;and Compositing\l object" alt="" coords="151,187,302,258"/>
+<area shape="rect" id="node6" href="$group__versioning.html" title="Versioning" alt="" coords="185,283,268,309"/>
+<area shape="rect" id="node7" href="$group___vdp_device.html" title="VdpDevice; Primary\l API object" alt="" coords="157,334,296,375"/>
+<area shape="rect" id="node8" href="$group___vdp_video_surface.html" title="VdpVideoSurface; Video\l Surface object" alt="" coords="145,399,309,441"/>
+<area shape="rect" id="node9" href="$group___vdp_output_surface_render.html" title="VdpOutputSurface Rendering\l &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Functionality" alt="" coords="131,465,323,506"/>
+<area shape="rect" id="node10" href="$group___vdp_decoder.html" title="VdpDecoder; Video Decoding\l object" alt="" coords="129,530,324,571"/>
+<area shape="rect" id="node11" href="$group___vdp_bitmap_surface.html" title="VdpBitmapSurface; Bitmap\l Surfaceobject" alt="" coords="137,595,317,637"/>
+<area shape="rect" id="node12" href="$group__get__proc__address.html" title="Entry Point Retrieval" alt="" coords="155,661,298,688"/>
+<area shape="rect" id="node13" href="$group__misc__types.html" title="Miscellaneous Types" alt="" coords="154,712,299,739"/>
+<area shape="rect" id="node14" href="$group__display__preemption.html" title="Display Preemption" alt="" coords="159,763,295,789"/>
+<area shape="rect" id="node15" href="$group___vdp_presentation_queue.html" title="VdpPresentationQueue;\l Video &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;presentation\l (display) object" alt="" coords="147,813,307,869"/>
+<area shape="rect" id="node16" href="$group__error__handling.html" title="Error Handling" alt="" coords="174,893,279,920"/>
+</map>
